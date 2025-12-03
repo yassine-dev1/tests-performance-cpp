@@ -10,7 +10,7 @@
 
 using namespace std;
 
-// --- UTILS ET CHRONOMeTRAGE (Inchange ) ---
+// --- UTILS ET CHRONOMeTRAGE (Inchange ) ----
 
 template <typename Function>
 double measure_time(Function func) {
